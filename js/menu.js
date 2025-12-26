@@ -20,6 +20,7 @@
       </div>
     
       <div class="menu">
+      <a href="../introduce.html">회사 소개</a>
         <a href="#lawfirm-testimonials">현재 거래처</a>
         <a href="#attorney-profile">서비스 장점</a>
         <a href="#consultFormSection">무료 상담</a>
@@ -32,6 +33,7 @@
       </button>
     
       <div id="mobilePanel" class="mobile-panel">
+      <a href="../introduce.html">회사 소개</a>
       <a href="#lawfirm-testimonials">현재 거래처</a>
         <a href="#attorney-profile">서비스 장점</a>
       <a href="#consultFormSection">무료 상담</a>
